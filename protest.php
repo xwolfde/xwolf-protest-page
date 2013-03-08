@@ -37,7 +37,7 @@ define("XW_PROTEST_TITLE", 'Welttag gegen Internetzensur <br>12.03.2013');
 define("XW_PROTEST_LONGTEXT", 'Wir zeigen uns solidarisch mit allen durch Überwachung und Zensur eingeschränkten Journalisten und Aktivisten weltweit. Die Organisationen Reporter ohne Grenzen und die Piratenpartei rufen am Welttag gegen Internetzensur zu Protesten auf. ');
 define("XW_PROTEST_MORE", 'Weitere Informationen bei <a href="http://www.reporter-ohne-grenzen.de/">Reporter ohne Grenzen</a>. <a href="http://wiki.piratenpartei.de/Welttag-gegen-Internetzensur-2013">Informationen, sowie Plugins und Banner</a> zur Teilnahme finden sich auf dem Wiki der Piratenpartei Deutschland.');
 
-define("XW_PROTEST_usecookie", false);
+define("XW_PROTEST_usecookie", true);
 define("XW_PROTEST_cookiename", 'seen_worldday2013');
 
 define("XW_TESTMODE", false);
