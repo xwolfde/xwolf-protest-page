@@ -405,3 +405,4 @@ function xw_protest_uninstall() {
 
 register_activation_hook(__FILE__, 'xw_progressbar_install');
 register_deactivation_hook(__FILE__, 'xw_progressbar_uninstall');
+
