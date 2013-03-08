@@ -80,6 +80,7 @@ function xw_protest_init() {
 	    if ( xw_see_check() ) { 				
 		    wp_register_style( 'xw_protest_css', $xw_protest_path . 'protest.css' );
 		    wp_enqueue_style( 'xw_protest_css' );
+                    wp_enqueue_script('jquery');            
 		    add_action('wp_footer', 'xw_protest_footercode');
                     if ( $xw_opts['usecookie'] )
 				setcookie( $xw_opts['cookiename'], 1, 0, '/' );
@@ -127,8 +128,9 @@ function xw_protest_footercode() {
     $xw_opts = xw_get_options();
     $xw_protest_path = plugin_dir_url( __FILE__ );
 	echo '<script type="text/javascript">
-	/* <![CDATA[ */';
-	echo '$(function () {  $(\'body\').append($(
+	/* <![CDATA[ */ 
+        ';
+	echo 'jQuery(document).ready(function ($) {  $(\'body\').append($(
         \'<div id=\"protest\"><div><a href=\"#\" class=\"close\" tabindex=\"1\">X</a>\' + ';
 	if ($xw_opts['image']) {
 	    echo '\'<p>';
