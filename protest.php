@@ -9,7 +9,7 @@ Version: 1.0.3
 Author: xwolf
 Author URI: http://blog.xwolf.de
 License: GPL3
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
 */
 /*  Copyright 2013  xwolf  ( http://blog.xwolf.de)
 
@@ -26,7 +26,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */    
-
+ 
 
 /**
  * Constants 
