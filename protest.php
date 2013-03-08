@@ -41,7 +41,7 @@ define("XW_PROTEST_usecookie", false);
 define("XW_PROTEST_cookiename", 'seen_worldday2013');
 
 define("XW_TESTMODE", false);
-define("XW_PROTEST_date", '2013-03-08');
+define("XW_PROTEST_date", '2013-03-12');
 define("XW_PROTEST_timestart",  8);
 define("XW_PROTEST_timeend",  20);
 define("XW_PROTEST_timezone", null);
