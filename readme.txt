@@ -39,14 +39,23 @@ Within the backend options this plugin can be used for other protest days also.
 = Support =
 * By [Flattr](https://flattr.com/donation/give/to/xwolf)
 
-= Autor ==
-* [Google+](https://plus.google.com/u/0/110052848631728627228/ "Google+")
-* [Twitter](https://twitter.com/xwolf "Twitter")
+== Autor ==
+* [Google+](https://plus.google.com/u/0/110052848631728627228/) 
+* [Twitter](https://twitter.com/xwolf)
 
 == Screenshots ==
 
-1. Default view which is displayed on 2013/03/12
-2. Backend
+1. Default view which is displayed on 2013/03/12.
+2. Backend.
+
+== Changelog ==
+
+= 1.0.4 =
+* Default value: Cookies are active by default
+* Bugfix: Support for themes without jQuery
+
+= 1.0.3 =
+* Initial release at wordpress plugin directory; former releases on github.
 
 == Installation ==
 
