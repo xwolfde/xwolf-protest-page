@@ -5,7 +5,7 @@ Description: Black Day Plugin for protest days like the world day against cyber 
 Tags:  Internet Censorship, Worldday 2013, cyber censorship, protest, black day
 Plugin URI: https://github.com/xwolfde/xwolf-protest-page
 Donate link: https://flattr.com/donation/give/to/xwolf
-Version: 1.0.3
+Version: 1.0.4
 Author: xwolf
 Author URI: http://blog.xwolf.de
 License: GPL3

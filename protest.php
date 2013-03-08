@@ -5,7 +5,7 @@ Plugin URI: http://piratenkleider.xwolf.de/plugins/xwolf-protest-page
 Description: Black Day Plugin for protest days like the world day against cyber censorship 2013. Plugin enables a dark colored notice. 
 Tags:  Internet Censorship, Worldday 2013, cyber censorship, protest, black day
 Plugin URI: https://github.com/xwolfde/xwolf-protest-page
-Version: 1.0.3
+Version: 1.0.4
 Author: xwolf
 Author URI: http://blog.xwolf.de
 License: GPL3
